@@ -1,0 +1,10 @@
+{
+  "concave_worst" : "0.7119",
+  "concave_std" : "0.2654",
+  "texture_worst" : "0.4601",
+  "smooth_worst" : "0.03003",
+  "symm_worst" : "17.33",
+  "symm_mean" : "0.6656",
+  "radius_std" : "0.1622",
+  "compac_std" : "1.095"
+}

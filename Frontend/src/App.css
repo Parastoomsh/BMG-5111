@@ -1,0 +1,155 @@
+.App {
+  height: 100%;
+  width: 50%;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  /* border: 1px solid black; */
+  padding: 20px;
+  box-shadow: 5px 10px 20px black;
+  border-radius: 10px;
+  margin-top: 100px;
+  background: white;
+}
+.title {
+  color: rgb(255, 145, 0);
+  text-align: center;
+}
+.regular-input {
+  border: none;
+  background: rgb(221, 221, 221);
+  border-radius: 5px;
+  width: 250px;
+  height: 40px;
+  margin: 20px;
+  padding: 10px;
+}
+.regular-input:hover {
+  border: 2px solid rgb(255, 174, 0);
+  transition: 400ms;
+  cursor: pointer;
+  outline: none;
+}
+.regular-input:focus {
+  outline: 2px solid rgb(255, 115, 0);
+}
+.lable {
+  font-weight: 700;
+}
+.button {
+  width: 90%;
+  height: 50px;
+  border: none;
+  border-radius: 5px;
+  background: rgb(255, 145, 0);
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+  cursor: pointer;
+}
+.button:hover {
+  background: white;
+  border: 2px solid rgb(255, 145, 0);
+  transition: 400ms;
+  color: rgb(255, 145, 0);
+}
+.email {
+  border: none;
+  background: rgb(221, 221, 221);
+  border-radius: 5px;
+  width: 600px;
+  height: 40px;
+  margin: 20px;
+  padding: 10px;
+}
+.email:hover {
+  border: 2px solid rgb(255, 174, 0);
+  transition: 400ms;
+  cursor: pointer;
+  outline: none;
+}
+.email:focus {
+  outline: 2px solid rgb(255, 115, 0);
+}
+.container_address {
+  display: flex;
+  flex-wrap: wrap;
+}
+.personal_container {
+  border-bottom: 1px solid rgb(187, 187, 187);
+}
+.container_new {
+  display: flex;
+  flex-direction: column;
+}
+.lable1 {
+  font-weight: 700;
+  margin-left: 20px;
+}
+.main_container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border-bottom: 1px solid rgb(187, 187, 187);
+}
+.title1 {
+  color: rgb(255, 145, 0);
+  text-align: left;
+}
+.explaination {
+  width: 70%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.container_name {
+  display: flex;
+  align-items: center;
+}
+.error_input {
+  border: none;
+  background: rgb(255, 40, 2);
+  border-radius: 5px;
+  width: 250px;
+  height: 40px;
+  margin: 20px;
+  padding: 10px;
+}
+.error_input:hover {
+  border: 2px solid rgb(255, 174, 0);
+  transition: 400ms;
+  cursor: pointer;
+  outline: none;
+}
+.error_input:focus {
+  outline: 2px solid rgb(255, 115, 0);
+}
+.emergancy_container {
+  display: flex;
+  align-items: center;
+}
+.email_error {
+  border: none;
+  background: rgb(221, 221, 221);
+  border-radius: 5px;
+  width: 600px;
+  height: 40px;
+  margin: 20px;
+  padding: 10px;
+}
+.email_error {
+  border: 2px solid rgb(255, 174, 0);
+  transition: 400ms;
+  cursor: pointer;
+  outline: none;
+}
+.email_error:focus {
+  outline: 2px solid rgb(255, 115, 0);
+}
