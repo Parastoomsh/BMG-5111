@@ -24,4 +24,4 @@ if the backend server is running, the website will be run on port 3001, you can 
 
 ## Team members:
 1. Parastoo Mashreghimoghadam (https://github.com/Parastoomsh)
-2. Yasaman Mohtashami (yasim94@yahoo.com)
+2. Yasaman Mohtashami (https://github.com/yasminem94)
