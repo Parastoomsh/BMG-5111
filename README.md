@@ -5,9 +5,10 @@ Our goal of this project is Implementing a web application to automatically dete
 ## Backend
 To run the backend, run these commands inside the Backend folder:
 
-npm install 
+```
+npm install
 npm start
-
+```
 Test the api's running using the below api in insomnia (an api testing tool):
 http://localhost:3000/api/predictByModel
 
@@ -15,8 +16,12 @@ You can find a JSON example in backend folder to test the api.
 
 ## Frontend
 To run the Frontend, you should install yarn first, then run these commands inside the Backend folder:
-
-yarn install 
+```
+yarn install
 yarn start
-
+```
 if the backend server is running, the website will be run on port 3001, you can enter the fields and submit it to see the results.
+
+## Team members:
+1. Parastoo Mashreghimoghadam (https://github.com/Parastoomsh)
+2. Yasaman Mohtashami (yasim94@yahoo.com)
